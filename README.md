@@ -1,0 +1,1 @@
+Created a shared wallet that allows 2 or more users access to the wallet. This wallet has a built-in allowance functionality that allows the owner to give allowances to specific accounts.
